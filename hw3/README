@@ -1,0 +1,15 @@
+Big Data Algorithms
+Problem Set 3
+set3_part1.pdf
+set3_part2.pdf
+
+Part 1:
+* p1: SVM gradient descent
+* p2: SVM gradient descent with modifications
+* p3: Linear regression on mushroom dataset
+* p4: Calculating eigenvalues/eigenvectors and matrix power operations
+* p5: PCA on Boston housing prices dataset
+
+Part 2:
+* p1: Scaling, clustering, and PCA
+* p2: Matrix operations
